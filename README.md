@@ -13,3 +13,13 @@
 
 ## Resultado de la sonda: ##
 Se realizó la encuesta a 16 personas, de las cuales el 56,3% identificaron el área de Salud y Bienestar como el principal problema. La mayoría de los encuestados manifestó dificultades para solicitar citas médicas, especialmente con especialistas, debido a la falta de agenda disponible y a los procesos lentos y repetitivos. Esto demuestra que la gestión de citas médicas es una de las mayores fuentes de pérdida de tiempo y frustración para los usuarios.
+
+
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image.png)
+
+[Formulario  de la encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdpyU8u9NE0KlsyTASYh1NekPDXXqA_KWoC-4amhvOXkxieFQ/viewform?usp=header)
+
+[Resultados de la encuesta](https://docs.google.com/spreadsheets/d/1e8eew9FBKeJhgPamUKih0T7pUUilkViGdlndRy2b74I/edit?usp=sharing)
+
